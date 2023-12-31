@@ -1,3 +1,4 @@
+%define _empty_manifest_terminate_build 0
 Name:           miniaudio
 Version:        0.11.21
 Release:        1
