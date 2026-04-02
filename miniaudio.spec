@@ -1,6 +1,6 @@
 Summary:		An audio playback and capture library in a single header file
 Name:		miniaudio
-Version:		0.11.22
+Version:		0.11.25
 Release:		1
 License:		MIT-0
 Group:		System/Libraries
@@ -32,7 +32,7 @@ Features:
 # Nothing: there is only the header file
 
 #-----------------------------------------------------------------------------
- 
+
 %package devel
 Summary:		An audio playback and capture library in a single header file
 Group:		Development/C
